@@ -6,4 +6,4 @@
 
 🥶ls 
 
-🥶python bdpk_enc.py
+🥶python bdpk.py
